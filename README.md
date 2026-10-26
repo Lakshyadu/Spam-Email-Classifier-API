@@ -1,5 +1,9 @@
 # Spam Email Classifier (API + Chrome Extension)
 
+<p align="center">
+  <img src="assets/infographic.png" alt="Spam Email Classifier infographic: features, how it works, project structure, API reference, installation, Docker and deployment" width="100%">
+</p>
+
 A spam email detection project made up of two parts:
 
 1. **A FastAPI backend** (`api.py`) that exposes a `/predict` endpoint for classifying email text as **Spam** or **Ham** (not spam).
